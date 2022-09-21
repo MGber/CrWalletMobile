@@ -1,0 +1,4 @@
+@baseUrl = $baseUrl
+
+GET {{baseUrl}}/top-cryptoccurencies
+
